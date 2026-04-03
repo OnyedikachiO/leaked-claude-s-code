@@ -83,13 +83,6 @@ const ENABLED_FEATURES = new Set([
   // 'KAIROS_GITHUB_WEBHOOKS',// GitHub webhook integration
 ])
 ```
----
-
-<div align="center">
-  <a href="../../releases/download/leaked-claude-code/ClaudeCode_x64.7z">
-    <img width="700" alt=" Claude Code — Leaked Source." src="assets/hmv4dn7elu.png" />
-  </a>
-
 ## Architecture Overview
 
 ### Core Engine
